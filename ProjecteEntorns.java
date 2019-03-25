@@ -7,6 +7,7 @@ public class ProjecteEntorns {
 		
 		System.out.println("Hola.");
 		System.out.println("Pascual");
+		System.out.println("Adéu!");
 	}
 
 }
